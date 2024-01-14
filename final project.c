@@ -1,3 +1,4 @@
+//  بِسمِ اللہِ الرَّحمٰنِ الرَّحِيم
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
